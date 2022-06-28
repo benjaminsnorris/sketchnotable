@@ -3,7 +3,6 @@ title: "Sketchnotes for Next Thing Now Jan 2013"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/next-thing-now-sketchnotes.jpg
 canonical_url: https://bennorris.com/2013/01/17/sketchnotes-for-next-thing-now-jan-2013
 date: 2013-01-17 23:03:48-0700
-category: Sketchnotable
 tags:
 - sketchnotes
 ---

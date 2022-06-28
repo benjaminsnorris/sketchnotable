@@ -3,7 +3,6 @@ title: "Sketchnotes for Tax Webinar"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/income-tax-into-tax-income-sketchnotes.jpg
 canonical_url: https://bennorris.com/2013/02/19/sketchnotes-for-tax-webinar
 date: 2013-02-19 07:26:03-0700
-category: Sketchnotable
 tags:
 - sketchnotes
 ---

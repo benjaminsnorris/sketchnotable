@@ -5,7 +5,6 @@ canonical_url: https://bennorris.com/2012/02/21/why-i-sketchnote-confessions-of-
 date: 2012-02-21 20:05:55-0700
 tags:
 - sketchnotes
-category: Sketchnotable
 ---
 
 I love to write. Not the novel-creating, prize-winning kind of writing, just the act of scratching a pen across paper. Growing up as a child, I wrote all kinds of things and found that I enjoyed playing with letters. My dad is something of an artist, and I always dreamed that I would be too, but that seemed to elude me. Writing though—that was something I could do. My penmanship improved in direct proportion to the number of girls that I "fell in like" with as I wrote each one fresh new reams of notes expressing my undying, albeit fleeting, affection.

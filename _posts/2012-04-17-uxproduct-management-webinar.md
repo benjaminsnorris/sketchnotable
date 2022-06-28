@@ -3,7 +3,6 @@ title: "UX/Product Management Webinar"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/aipmm-2012-sketchnote.jpg
 canonical_url: https://bennorris.com/2012/04/17/uxproduct-management-webinar
 date: 2012-04-17 13:54:02-0600
-category: Sketchnotable
 tags:
 - sketchnotes
 short: true

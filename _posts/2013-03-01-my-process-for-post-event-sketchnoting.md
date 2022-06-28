@@ -6,7 +6,6 @@ gallery_thumb:
 - https://media.bennorris.com/images/sketchnotable/thumbs/growing-smart-sketchnote-basic.jpg
 canonical_url: https://bennorris.com/2013/03/01/my-process-for-post-event-sketchnoting
 date: 2013-03-01 06:48:47-0700
-category: Sketchnotable
 tags:
 - sketchnotes
 ---

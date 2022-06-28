@@ -3,7 +3,6 @@ title: "Sketchnotes for Webinar on Raising Capital"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/raise-capital-sketchnote.jpg
 canonical_url: https://bennorris.com/2013/02/28/sketchnotes-for-webinar-on-raising-capital
 date: 2013-02-28 20:58:18-0700
-category: Sketchnotable
 tags:
 - sketchnotes
 ---

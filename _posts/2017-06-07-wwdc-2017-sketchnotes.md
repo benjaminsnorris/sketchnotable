@@ -7,7 +7,6 @@ tags:
 - wwdc
 - sketchnotes
 - sketchnote collection
-category: Sketchnotable
 ---
 
 This year, I had the opportunity to attend WWDC in person. I went for the first time in 2015, and felt like I was much better prepared to take advantage of my time at the conference. The keynote is always exciting, but this year was one of the most exciting for me in a while. Before going to the conference, a friend asked me what would be on the top of my wish list. All I really wanted some OS-level enhancements for the iPad. I got all that and more!

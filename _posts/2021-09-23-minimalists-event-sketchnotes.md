@@ -5,8 +5,6 @@ gallery_thumb:
 canonical_url: https://bennorris.com/2021/09/23/minimalists-event-sketchnotes
 date: 2021-09-23 09:13:00-0700
 title: "The Minimalists Event Sketchnotes"
-categories:
-- Sketchnotable
 tags:
 - sketchnotes
 short: true

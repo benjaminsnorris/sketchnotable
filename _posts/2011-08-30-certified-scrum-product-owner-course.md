@@ -5,7 +5,6 @@ canonical_url: https://bennorris.com/2011/08/30/certified-scrum-product-owner-co
 date: 2011-08-30 12:57:48-0600
 tags:
 - sketchnotes
-category: Sketchnotable
 short: true
 ---
 

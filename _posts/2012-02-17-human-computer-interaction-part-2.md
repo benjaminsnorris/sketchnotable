@@ -3,7 +3,6 @@ title: "Human-Computer Interaction (Part 2)"
 gallery_thumb: https://media.bennorris.com/images/bennorris/uploads/2021/db57eec383.png
 canonical_url: https://bennorris.com/2012/02/17/human-computer-interaction-part-2
 date: 2012-02-17 19:58:12-0700
-category: Sketchnotable
 tags:
 - sketchnotes
 ---

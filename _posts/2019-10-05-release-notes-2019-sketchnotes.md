@@ -6,7 +6,6 @@ date: 2019-10-05 18:15:56-0600
 tags:
 - sketchnotes
 - sketchnote collection
-category: Sketchnotable
 ---
 
 I had the fantastic opportunity to travel to Mexico and attend Release Notes in 2019 and enjoyed capturing sketchnotes. It was great to spend time with amazing people and form some new deep friendships.

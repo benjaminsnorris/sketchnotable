@@ -4,7 +4,6 @@ excerpt: Sketchnotes from the 2018 Peers Conference
 tags:
 - sketchnotes
 - sketchnote collection
-category: Sketchnotable
 read_time: false
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/peers-2018-sketchnote-01.jpg
 canonical_url: https://bennorris.com/2018/04/30/peers-2018-sketchnotes

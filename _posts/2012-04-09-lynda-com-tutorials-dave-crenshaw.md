@@ -3,7 +3,6 @@ title: "Lynda.com Tutorials: Dave Crenshaw"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/lynda-2012-crenshaw.jpg
 canonical_url: https://bennorris.com/2012/04/09/lynda-com-tutorials-dave-crenshaw
 date: 2012-04-09 12:56:38-0600
-category: Sketchnotable
 tags:
 - sketchnotes
 short: true

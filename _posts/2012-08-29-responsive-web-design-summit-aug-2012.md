@@ -6,7 +6,6 @@ gallery_thumb:
 canonical_url: https://bennorris.com/2012/08/29/responsive-web-design-summit-aug-2012
 date: 2012-08-29 10:32:13-0600
 read_time: false
-category: Sketchnotable
 tags:
 - sketchnotes
 - sketchnote collection

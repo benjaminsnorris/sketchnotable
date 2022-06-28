@@ -2,8 +2,6 @@
 canonical_url: https://bennorris.com/2022/06/21/ugmonk-interview-sketchnotes
 date: 2022-06-21 11:08:00-0600
 title: "Sketchnotes from Ugmonk Interview"
-categories:
-- Sketchnotable
 tags:
 - sketchnotes
 gallery_thumb:

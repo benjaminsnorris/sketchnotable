@@ -6,7 +6,6 @@ date: 2018-10-20 17:14:41-0600
 tags:
 - sketchnotes
 - sketchnote collection
-category: Sketchnotable
 ---
 
 I was able to attend Swift by Northwest with another member of my team, and enjoyed the chance to learn and capture some sketchnotes.

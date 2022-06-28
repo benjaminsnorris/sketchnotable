@@ -5,7 +5,6 @@ canonical_url: https://bennorris.com/2011/10/27/elearning-guild-webinar-breaking
 date: 2011-10-27 12:44:02-0600
 tags:
 - sketchnotes
-category: Sketchnotable
 short: true
 ---
 

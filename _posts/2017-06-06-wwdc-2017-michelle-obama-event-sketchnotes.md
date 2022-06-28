@@ -4,7 +4,6 @@ excerpt: Sketchnotes from the conversation between Michelle Obama and Lisa Jacks
 tags:
 - sketchnotes
 - wwdc
-category: Sketchnotable
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/wwdc-2017-michelle-obama-sketchnotes.jpg
 canonical_url: https://bennorris.com/2017/06/06/wwdc-2017-michelle-obama-event-sketchnotes
 date: 2017-06-06 10:45:02-0800

@@ -3,7 +3,6 @@ title: "Hatch Early Learning Webinar February 2012"
 gallery_thumb: https://media.bennorris.com/images/bennorris/uploads/2021/d4b28438d5.png
 canonical_url: https://bennorris.com/2012/02/17/hatch-early-learning-webinar-february-2012
 date: 2012-02-17 20:04:25-0700
-category: Sketchnotable
 tags:
 - sketchnotes
 ---

@@ -4,7 +4,6 @@ gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/digital-l
 canonical_url: https://bennorris.com/2012/02/02/digital-learning-day-2012
 date: 2012-02-02 06:22:20-0700
 read_time: false
-category: Sketchnotable
 tags:
 - sketchnotes
 ---
