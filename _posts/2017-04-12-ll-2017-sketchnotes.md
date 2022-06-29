@@ -5,7 +5,7 @@ canonical_url: https://bennorris.com/2017/04/12/ll-2017-sketchnotes
 date: 2017-04-12 10:30:36-0600
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 I had a fantastic time at Úll this year. I had the privilege of speaking on sketchnotes, which was a blast. It also meant that I felt a lot of pressure to product quality sketchnotes of the other speakers! In the end, Úll is all about the experience, and mine was warm and welcoming. I look forward to being back with this community again.

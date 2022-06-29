@@ -5,7 +5,7 @@ canonical_url: https://bennorris.com/2019/06/06/wwdc-2019-sketchnotes
 date: 2019-06-06 14:33:06-0600
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 I went to San Jose with my entire team from work to experience WWDC 2019. Only two of the five of us got actual tickets, so the rest of us attended [Layers](/2019/06/05/layers-sketchnotes.html) and watched sessions remotely.

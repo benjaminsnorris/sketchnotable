@@ -5,7 +5,7 @@ canonical_url: https://bennorris.com/2019/06/05/layers-2019-sketchnotes
 date: 2019-06-05 15:33:35-0600
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 ---
 
 I went with my team to San Jose for WWDC 2019. Only a couple of our team got actual tickets, so the rest of us went to Layers, and had a great experience.
