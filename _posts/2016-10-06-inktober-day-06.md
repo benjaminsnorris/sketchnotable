@@ -3,7 +3,6 @@ title:          "Inktober day 6"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/inktober-day-06.jpg
 canonical_url: https://bennorris.com/2016/10/06/inktober-day-06
 date:           2016-10-06 17:45:00-0700
-category:       Sketchnotable
 tags:           inktober
 read_time:      false
 short:          true

@@ -4,7 +4,6 @@ canonical_url: https://bennorris.com/2016/11/02/ull-2016-sketchnotes
 date:           2016-11-02 08:45:00-0700
 excerpt:        A collection of my sketchnotes from the Úll 2016 conference
 read_time:      false
-category:       Sketchnotable
 tags:
 - sketchnotes
 - collection

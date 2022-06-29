@@ -3,7 +3,6 @@ title:          "Inktober day 21"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/inktober-day-21.jpg
 canonical_url: https://bennorris.com/2016/10/21/inktober-day-21
 date:           2016-10-21 23:58:00-0700
-category:       Sketchnotable
 tags:           inktober
 read_time:      false
 short:          true

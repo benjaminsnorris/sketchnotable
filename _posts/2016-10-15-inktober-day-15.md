@@ -3,7 +3,6 @@ title:          "Inktober day 15"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/inktober-day-15.jpg
 canonical_url: https://bennorris.com/2016/10/15/inktober-day-15
 date:           2016-10-15 23:34:00-0700
-category:       Sketchnotable
 tags:           inktober
 read_time:      false
 short:          true

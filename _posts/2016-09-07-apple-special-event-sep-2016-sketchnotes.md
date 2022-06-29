@@ -10,7 +10,6 @@ gallery_thumb:
 - https://media.bennorris.com/images/sketchnotable/thumbs/apple-event-2016-sketchnote-05.jpg
 excerpt:        A summary of my sketchnotes from the iPhone 7 launch
 read_time:      false
-category:       Sketchnotable
 tags:
 - sketchnotes
 - collection

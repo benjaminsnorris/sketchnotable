@@ -3,7 +3,6 @@ title:          "Inktober day 31"
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/inktober-day-31.jpg
 canonical_url: https://bennorris.com/2016/10/31/inktober-day-31
 date:           2016-10-31 20:37:00-0700
-category:       Sketchnotable
 tags:           inktober
 read_time:      false
 short:          true

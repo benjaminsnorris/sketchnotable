@@ -3,7 +3,6 @@ gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/inktober-
 canonical_url: https://bennorris.com/2016/10/01/inktober-day-01
 date:           2016-10-01 22:15:00-0700
 title:          "Inktober day 1"
-category:       Sketchnotable
 tags:           inktober
 read_time:      false
 short:          true
