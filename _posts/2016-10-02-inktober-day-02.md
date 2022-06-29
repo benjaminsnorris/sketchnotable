@@ -6,7 +6,6 @@ title:          "Inktober day 2"
 category:       Sketchnotable
 tags:
 - inktober
-- general conference
 read_time:      false
 short:          true
 ---
